@@ -170,7 +170,7 @@ pip install -r requirements.txt
 
 ## 📈 Learning Progress
 
-- [ ] Python fundamentals
+- [x] Python fundamentals
 - [ ] NumPy
 - [ ] Pandas
 - [ ] Matplotlib
